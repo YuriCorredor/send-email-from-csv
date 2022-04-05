@@ -12,7 +12,7 @@ PASSWORD=YOUR_EMAIL_PASSWORD
 TITLE=TITLE_OF_EMAIL
 ```
 
-All .csv files will in the main folder will be read by the script and the emails will be sent. The emails must be in the first field on the CSV file.
+All .csv files in the main folder will be read by the script and the emails will be sent. The emails must be in the first field on the CSV file.
 
 The content inside "body.html" will be sent as the body of the email.
 
